@@ -2,6 +2,10 @@
 
 ###
 
+<h3 align="left">Software&Computer Science 💻💻</h3>
+
+###
+
 <div align="center">
   <img height="160" src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTEzODc4M3FscG5lb3BsNW0zN3Rxemp1MjRxYTc2b3o1b3A1eWJxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/200.webp"  />
 </div>
@@ -19,9 +23,9 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
