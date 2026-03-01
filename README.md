@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="smileface.svg" width="50" alt="smile face icon">
+  <img src="logo_svg/smileface.svg" width="50" alt="smile face icon">
 </p>
 
 
@@ -68,7 +68,7 @@
 [![](https://visitcount.itsvg.in/api?id=Hichaminventor10&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img src="smileface.svg" width="50" alt="smile face icon">
+  <img src="logo_svg/smileface.svg" width="50" alt="smile face icon">
 </p>
 
 
