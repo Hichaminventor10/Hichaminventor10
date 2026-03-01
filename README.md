@@ -22,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
 </p>
 
----
+
 
 ## 🌐 𝑺𝒐𝒄𝒊𝒂𝒍𝒔:
 
@@ -38,7 +38,7 @@
     <img src="social/instagram-icon.svg" width="64" height="64" alt="Instagram Logo"/>
   </a>
 </p>
----
+
 
 
 
@@ -49,7 +49,7 @@
   <img src="https://github.com/Hichaminventor10/Hichaminventor10/blob/4e7f705aa5baf1c4a927a5b4dc1acff9931de7ad/Screenshot%202026-01-06%20at%2021.06.54.png"
        width="180">
 </p>
----
+
 
 ## 💻 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
