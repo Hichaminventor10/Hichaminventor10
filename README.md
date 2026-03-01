@@ -7,6 +7,11 @@
 > *"𝑪𝒐𝒅𝒆 𝒊𝒔 𝒑𝒐𝒆𝒕𝒓𝒚 𝒘𝒓𝒊𝒕𝒕𝒆𝒏 𝒊𝒏 𝒍𝒐𝒈𝒊𝒄."*  
 𝑨𝒍𝒘𝒂𝒚𝒔 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝒂𝒍𝒘𝒂𝒚𝒔 𝒄𝒐𝒅𝒊𝒏𝒈, 𝒂𝒍𝒘𝒂𝒚𝒔 𝒊𝒎𝒑𝒓𝒐𝒗𝒊𝒏𝒈 🚀
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
+
 ---
 
 ## 🌐 𝑺𝒐𝒄𝒊𝒂𝒍𝒔:
