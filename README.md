@@ -1,12 +1,9 @@
 
 <p align="center">
+ <img src="logo_svg/iconfleche.svg" width="50" alt="fleche icon">
   <img src="logo_svg/smileface.svg" width="50" alt="smile face icon">
+
 </p>
-
-
-
-
-
 
 # 💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 𝒘𝒉𝒐 𝒍𝒐𝒗𝒆𝒔 𝒕𝒖𝒓𝒏𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒊𝒏𝒕𝒐 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒄𝒐𝒅𝒆.  
