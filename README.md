@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 # 💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 𝒘𝒉𝒐 𝒍𝒐𝒗𝒆𝒔 𝒕𝒖𝒓𝒏𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒊𝒏𝒕𝒐 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒄𝒐𝒅𝒆.  
 𝑰'𝒎 𝒂𝒍𝒍 𝒂𝒃𝒐𝒖𝒕 𝒘𝒓𝒊𝒕𝒊𝒏𝒈 𝒄𝒍𝒆𝒂𝒏 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝒕𝒉𝒂𝒕 𝒂𝒄𝒕𝒖𝒂𝒍𝒍𝒚 𝒔𝒐𝒍𝒗𝒆 𝒑𝒓𝒐𝒃𝒍𝒆𝒎𝒔.  
@@ -15,11 +23,22 @@
 ---
 
 ## 🌐 𝑺𝒐𝒄𝒊𝒂𝒍𝒔:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hicham_kb9)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hicham-kaber-989943308/)  
+
+ 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaber.hicham@etu.uae.ac.ma)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/hicham-kaber-989943308" target="_blank">
+    <img src="social/linkedin.svg" width="64" height="64" alt="LinkedIn Logo"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/hicham_kb9" target="_blank">
+    <img src="social/instagram-icon.svg" width="64" height="64" alt="Instagram Logo"/>
+  </a>
+</p>
 ---
+
+
 
 ## 🔁 𝑽𝒆𝒓𝒔𝒊𝒐𝒏 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 & 𝑪𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒐𝒏:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
