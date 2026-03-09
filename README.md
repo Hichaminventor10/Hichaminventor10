@@ -6,6 +6,13 @@
 </p>
 
  <!--𝑯𝑰𝑪𝑯𝑨𝑴 𝑲𝑨𝑩𝑬𝑹    <img src="logo_svg/check.svg" width="20" alt="apple icon">  -->
+<!--  <p align="center">
+  <img src="logo_svg/your-custom-seed.svg" width="120" alt="face">
+</p> -->
+
+<h1 align="center" style="margin-top:-80px;">
+  𝑯𝑰𝑪𝑯𝑨𝑴 𝑲𝑨𝑩𝑬𝑹
+</h1>
 
 # 💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 𝒘𝒉𝒐 𝒍𝒐𝒗𝒆𝒔 𝒕𝒖𝒓𝒏𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒊𝒏𝒕𝒐 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒄𝒐𝒅𝒆.  
@@ -66,11 +73,17 @@
 
 [![](https://visitcount.itsvg.in/api?id=Hichaminventor10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
+<!--<p align="center">
   <img src="logo_svg/smileface.svg" width="43" alt="smile face icon">
-</p>
-
+</p> -->
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
+
+
+<p align="right">
+  <img src="logo_svg/your-custom-seed.svg" width="120" alt="face">
+</p>
+
+
