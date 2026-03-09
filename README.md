@@ -2,7 +2,7 @@
 <p align="center">
 <!-- <img src="logo_svg/iconfleche.svg" width="50" alt="fleche icon">
   <img src="logo_svg/smileface.svg" width="50" alt="smile face icon"> -->
- <img src="logo_svg/apple_dark.svg" width="50" alt="apple icon"> 
+ <img src="logo_svg/apple_dark.svg" width="43" alt="apple icon"> 
 </p>
 
 # 💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
@@ -28,11 +28,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hicham-kaber-989943308" target="_blank">
-    <img src="social/linkedin.svg" width="64" height="64" alt="LinkedIn Logo"/>
+    <img src="social/linkedin.svg" width="43" height="64" alt="LinkedIn Logo"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/hicham_kb9" target="_blank">
-    <img src="social/instagram-icon.svg" width="64" height="64" alt="Instagram Logo"/>
+    <img src="social/instagram-icon.svg" width="43" height="64" alt="Instagram Logo"/>
   </a>
 </p>
 
@@ -65,7 +65,7 @@
 [![](https://visitcount.itsvg.in/api?id=Hichaminventor10&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img src="logo_svg/smileface.svg" width="50" alt="smile face icon">
+  <img src="logo_svg/smileface.svg" width="43" alt="smile face icon">
 </p>
 
 
