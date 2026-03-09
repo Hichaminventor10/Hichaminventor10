@@ -1,8 +1,8 @@
 
 <p align="center">
- <img src="logo_svg/iconfleche.svg" width="50" alt="fleche icon">
-  <img src="logo_svg/smileface.svg" width="50" alt="smile face icon">
-
+<!-- <img src="logo_svg/iconfleche.svg" width="50" alt="fleche icon">
+  <img src="logo_svg/smileface.svg" width="50" alt="smile face icon"> -->
+ <img src="logo_svg/apple_dark.svg" width="50" alt="apple icon"> 
 </p>
 
 # 💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
