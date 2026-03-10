@@ -10,8 +10,18 @@
   <img src="logo_svg/your-custom-seed.svg" width="120" alt="face">
 </p> -->
 
+<!-- <img src="logo_svg/cursor.svg" width="43" alt="cursor icon">  -->
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
 <h1 align="center" style="margin-top:-80px;">
   𝑯𝑰𝑪𝑯𝑨𝑴 𝑲𝑨𝑩𝑬𝑹
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
 </h1>
 
 # 💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
@@ -24,9 +34,7 @@
 𝑨𝒍𝒘𝒂𝒚𝒔 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝒂𝒍𝒘𝒂𝒚𝒔 𝒄𝒐𝒅𝒊𝒏𝒈, 𝒂𝒍𝒘𝒂𝒚𝒔 𝒊𝒎𝒑𝒓𝒐𝒗𝒊𝒏𝒈 🚀
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
-</p>
+
 
 
 
