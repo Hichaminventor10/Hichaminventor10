@@ -1,4 +1,6 @@
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=3000&color=fbbf24&lines=Hi+there+!👋;I'm+Hicham+Kaber;First+year+student;in+Software+Engineering" />
+</h1>
 <p align="center">
 <!-- <img src="logo_svg/iconfleche.svg" width="50" alt="fleche icon">
   <img src="logo_svg/smileface.svg" width="50" alt="smile face icon"> -->
@@ -24,7 +26,7 @@
 </p>
 </h1>
 
-# 💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 𝒘𝒉𝒐 𝒍𝒐𝒗𝒆𝒔 𝒕𝒖𝒓𝒏𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒊𝒏𝒕𝒐 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒄𝒐𝒅𝒆.  
 𝑰'𝒎 𝒂𝒍𝒍 𝒂𝒃𝒐𝒖𝒕 𝒘𝒓𝒊𝒕𝒊𝒏𝒈 𝒄𝒍𝒆𝒂𝒏 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝒕𝒉𝒂𝒕 𝒂𝒄𝒕𝒖𝒂𝒍𝒍𝒚 𝒔𝒐𝒍𝒗𝒆 𝒑𝒓𝒐𝒃𝒍𝒆𝒎𝒔.  
 
@@ -71,27 +73,18 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+## GitHub Activity
 
-## 📊 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔:
-![](https://github-readme-stats.vercel.app/api?username=Hichaminventor10&theme=bear&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Hichaminventor10&theme=bear&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hichaminventor10&theme=bear&layout=compact)
+![GitHub Contribution Graph](https://ghchart.rshah.org/Hichaminventor10)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=Hichaminventor10&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!--<p align="center">
-  <img src="logo_svg/smileface.svg" width="43" alt="smile face icon">
-</p> -->
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</div>
 
-<p align="right">
-  <img src="logo_svg/your-custom-seed.svg" width="120" alt="face">
-</p>
 
 
