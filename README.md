@@ -78,6 +78,19 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Hichaminventor10)
 
 
+
+#
+<div align="center">
+  
+  ### 💖 Thanks for visiting my profile!
+  
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200" />
+  
+
+  
+</div>
+
+
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
@@ -87,4 +100,12 @@
 </div>
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hichaminventor10&label=Profile%20Views&color=2e1065&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Hichaminventor10?label=Followers&style=for-the-badge&color=334155" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Hichaminventor10?label=Stars&style=for-the-badge&color=FFF42B" alt="Stars" />
+</p>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=200&color=FF2328&lines=❤️" />
+</h1>
