@@ -43,15 +43,16 @@
 ## 🌐 𝑺𝒐𝒄𝒊𝒂𝒍𝒔:
 
  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaber.hicham@etu.uae.ac.ma)
-
 <p align="center">
   <a href="https://www.linkedin.com/in/hicham-kaber-989943308" target="_blank">
-    <img src="social/linkedin.svg" width="43" height="64" alt="LinkedIn Logo"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/hicham_kb9" target="_blank">
-    <img src="social/instagram-icon.svg" width="43" height="64" alt="Instagram Logo"/>
+  <a href="mailto:kaber.hicham@etu.uae.ac.ma" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+ 
+  <a href="https://github.com/Hichaminventor10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -110,15 +111,4 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=200&color=FF2328&lines=❤️" />
 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hicham-kaber-989943308" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kaber.hicham@etu.uae.ac.ma" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
- 
-  <a href="https://github.com/Hichaminventor10" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+
