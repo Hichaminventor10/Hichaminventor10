@@ -37,12 +37,10 @@
 
 
 
+##  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnd3aTdnb2UxN2QzZXNsb2JudTJiMXQxMXJhZWlrd3Bwam5qNXhhbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/azjux6zMBW3cWxK21P/giphy.gif" width="33" > 🌐 𝑺𝒐𝒄𝒊𝒂𝒍𝒔 :
 
 
 
-## 🌐 𝑺𝒐𝒄𝒊𝒂𝒍𝒔:
-
- 
 <p align="center">
   <a href="https://www.linkedin.com/in/hicham-kaber-989943308" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
