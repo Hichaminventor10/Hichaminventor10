@@ -60,10 +60,10 @@
 ## 🔁 𝑽𝒆𝒓𝒔𝒊𝒐𝒏 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 & 𝑪𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒐𝒏:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Hichaminventor10/Hichaminventor10/blob/4e7f705aa5baf1c4a927a5b4dc1acff9931de7ad/Screenshot%202026-01-06%20at%2021.06.54.png"
        width="180">
-</p>
+</p> -->
 
 
 ## 💻 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌:
@@ -117,7 +117,4 @@
 
 
 
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@Hicham%20Kaber-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hicham-kaber-989943308)
