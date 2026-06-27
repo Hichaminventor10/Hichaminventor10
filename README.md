@@ -2,17 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=3000&color=4ade80&lines=Hi+there+!👋;I'm+Hicham+Kaber;First+year+student;in+Software+Engineering" />
 </h1>
 <p align="center">
-<!-- <img src="logo_svg/iconfleche.svg" width="50" alt="fleche icon">
-  <img src="logo_svg/smileface.svg" width="50" alt="smile face icon"> -->
+
  <img src="logo_svg/apple_dark.svg" width="43" alt="apple icon"> 
 </p>
 
- <!--𝑯𝑰𝑪𝑯𝑨𝑴 𝑲𝑨𝑩𝑬𝑹    <img src="logo_svg/check.svg" width="20" alt="apple icon">  -->
-<!--  <p align="center">
-  <img src="logo_svg/your-custom-seed.svg" width="120" alt="face">
-</p> -->
 
-<!-- <img src="logo_svg/cursor.svg" width="43" alt="cursor icon">  -->
 
 
 <p align="center">
@@ -60,10 +54,7 @@
 ## 🔁 𝑽𝒆𝒓𝒔𝒊𝒐𝒏 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 & 𝑪𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒐𝒏:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<!-- <p align="center">
-  <img src="https://github.com/Hichaminventor10/Hichaminventor10/blob/4e7f705aa5baf1c4a927a5b4dc1acff9931de7ad/Screenshot%202026-01-06%20at%2021.06.54.png"
-       width="180">
-</p> -->
+
 
 
 ## 💻 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌:
@@ -71,12 +62,9 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!--
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
--->
+
 ---
 ## GitHub Activity
 
