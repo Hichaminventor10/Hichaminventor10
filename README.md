@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=3000&color=4ade80&lines=Hi+there+!👋;I'm+Hicham+Kaber;First+year+student;in+Software+Engineering" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=3000&color=6E40C9&lines=Hi+there+!👋;I'm+Hicham+Kaber;First+year+student;in+Software+Engineering" />
 </h1>
 <p align="center">
 
@@ -106,3 +106,11 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Hicham%20Kaber-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hicham-kaber-989943308)
+
+
+
+
+
+
+
+
