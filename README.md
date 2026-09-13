@@ -63,6 +63,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+ <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank"> <img alt="Javascript" height="62px" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
+   
+
+
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
