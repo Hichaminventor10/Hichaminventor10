@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=3000&color=6E40C9&lines=Hi+there+!👋;I'm+Hicham+Kaber;First+year+student;in+Software+Engineering" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=3000&color=46ecd5&lines=Hi+there+!👋;I'm+Hicham+Kaber;First+year+student;in+Software+Engineering" />
 </h1>
 <p align="center">
 
@@ -63,12 +63,32 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
- <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank"> <img alt="Javascript" height="62px" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
+
+
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="70" alt="React" />
+  <img src="https://skillicons.dev/icons?i=html" height="70" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="70" alt="CSS" />
+
+
+</p>
+  <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank">
+    <img
+      src="https://techstack-generator.vercel.app/js-icon.svg"
+      height="100"
+      alt="JavaScript"
+    />
+  </a>
+
+
    
 
-
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+
+	
 ---
 ## GitHub Activity
 
