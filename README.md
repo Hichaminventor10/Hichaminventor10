@@ -1,6 +1,8 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=3000&color=46ecd5&lines=Hi+there+!👋;I'm+Hicham+Kaber;First+year+student;in+Software+Engineering" />
-</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Hi%2C+I+am+Hicham+Kaber;second+year+student;in+software+engineering&color=8BE9FD&size=28&center=true&width=600&pause=1000&duration=3000&background=00000000" alt="Typing SVG" />
+  </a>
+</p>
 <p align="center">
 
  <img src="logo_svg/apple_dark.svg" width="43" alt="apple icon"> 
@@ -130,6 +132,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Hicham%20Kaber-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hicham-kaber-989943308)
+
 
 
 
